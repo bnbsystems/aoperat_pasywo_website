@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Pasywo",
+    "titleTemplate": "%s",
+    "description": "Wyceniamy nieruchomości pod wynajem",
+    "siteUrl": "https://pasywo.pl",
+    "image": "/assets/aoperat-logo-transparent.png",
+    "iconimage": "/assets/aoperat-logo-transparent.png"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
